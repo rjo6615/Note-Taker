@@ -16,11 +16,11 @@ a user is able to add and delete notes.
 ## Installation
 
 To run this project, the user needs to download the project then open the terminal and move to the main folder of the project. To run the program, the user must type "npm start" into the terminal. After you must open your browser to
-http://localhost:3001.
+http://localhost:3000. Or it can be accessed on heroku by this link: https://note-taker-app-bootcamp.herokuapp.com/
 
 ## Usage
 
-To use this project, start by typing "npm start" into the terminal. A message in the terminal will say "App listening at http://localhost:3001 🚀". Open the link in your browser and the application is ready to go.
+To use this project, start by typing "npm start" into the terminal. A message in the terminal will say "App listening at http://localhost:3000 🚀". Open the link in your browser and the application is ready to go.
 
 Example gif is listed below:
 
