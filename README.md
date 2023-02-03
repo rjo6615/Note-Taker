@@ -28,7 +28,7 @@ Example gif is listed below:
 
 ## Credits
 
-N/A
+John Ifert-Miller https://github.com/johnboy514
 
 ## License
 
